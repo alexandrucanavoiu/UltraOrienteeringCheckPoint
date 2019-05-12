@@ -1,0 +1,30 @@
+C:\Users\Alexandru Canavoiu\Downloads\Orientare_2018\Orientare\Orientare\bin\Release\Orientare.exe.config
+C:\Users\Alexandru Canavoiu\Downloads\Orientare_2018\Orientare\Orientare\bin\Release\Orientare.exe
+C:\Users\Alexandru Canavoiu\Downloads\Orientare_2018\Orientare\Orientare\bin\Release\Orientare.pdb
+C:\Users\Alexandru Canavoiu\Downloads\Orientare_2018\Orientare\Orientare\obj\Release\Orientare.csprojResolveAssemblyReference.cache
+C:\Users\Alexandru Canavoiu\Downloads\Orientare_2018\Orientare\Orientare\obj\Release\Orientare.Form1.resources
+C:\Users\Alexandru Canavoiu\Downloads\Orientare_2018\Orientare\Orientare\obj\Release\Orientare.Properties.Resources.resources
+C:\Users\Alexandru Canavoiu\Downloads\Orientare_2018\Orientare\Orientare\obj\Release\Orientare.csproj.GenerateResource.cache
+C:\Users\Alexandru Canavoiu\Downloads\Orientare_2018\Orientare\Orientare\obj\Release\Orientare.csproj.CoreCompileInputs.cache
+C:\Users\Alexandru Canavoiu\Downloads\Orientare_2018\Orientare\Orientare\obj\Release\Orientare.exe
+C:\Users\Alexandru Canavoiu\Downloads\Orientare_2018\Orientare\Orientare\obj\Release\Orientare.pdb
+D:\software orientare nou\Orientare_2018\Orientare\Orientare\bin\Release\Orientare.exe.config
+D:\software orientare nou\Orientare_2018\Orientare\Orientare\bin\Release\Orientare.exe
+D:\software orientare nou\Orientare_2018\Orientare\Orientare\bin\Release\Orientare.pdb
+D:\software orientare nou\Orientare_2018\Orientare\Orientare\obj\Release\Orientare.csprojResolveAssemblyReference.cache
+D:\software orientare nou\Orientare_2018\Orientare\Orientare\obj\Release\Orientare.Form1.resources
+D:\software orientare nou\Orientare_2018\Orientare\Orientare\obj\Release\Orientare.Properties.Resources.resources
+D:\software orientare nou\Orientare_2018\Orientare\Orientare\obj\Release\Orientare.csproj.GenerateResource.cache
+D:\software orientare nou\Orientare_2018\Orientare\Orientare\obj\Release\Orientare.csproj.CoreCompileInputs.cache
+D:\software orientare nou\Orientare_2018\Orientare\Orientare\obj\Release\Orientare.exe
+D:\software orientare nou\Orientare_2018\Orientare\Orientare\obj\Release\Orientare.pdb
+E:\qqqqqqqqqqqqqqqqqqqqqqq\software orientare nou\Orientare_2018\Orientare\Orientare\bin\Release\Orientare.exe.config
+E:\qqqqqqqqqqqqqqqqqqqqqqq\software orientare nou\Orientare_2018\Orientare\Orientare\bin\Release\Orientare.exe
+E:\qqqqqqqqqqqqqqqqqqqqqqq\software orientare nou\Orientare_2018\Orientare\Orientare\bin\Release\Orientare.pdb
+E:\qqqqqqqqqqqqqqqqqqqqqqq\software orientare nou\Orientare_2018\Orientare\Orientare\obj\Release\Orientare.csprojResolveAssemblyReference.cache
+E:\qqqqqqqqqqqqqqqqqqqqqqq\software orientare nou\Orientare_2018\Orientare\Orientare\obj\Release\Orientare.Form1.resources
+E:\qqqqqqqqqqqqqqqqqqqqqqq\software orientare nou\Orientare_2018\Orientare\Orientare\obj\Release\Orientare.Properties.Resources.resources
+E:\qqqqqqqqqqqqqqqqqqqqqqq\software orientare nou\Orientare_2018\Orientare\Orientare\obj\Release\Orientare.csproj.GenerateResource.cache
+E:\qqqqqqqqqqqqqqqqqqqqqqq\software orientare nou\Orientare_2018\Orientare\Orientare\obj\Release\Orientare.csproj.CoreCompileInputs.cache
+E:\qqqqqqqqqqqqqqqqqqqqqqq\software orientare nou\Orientare_2018\Orientare\Orientare\obj\Release\Orientare.exe
+E:\qqqqqqqqqqqqqqqqqqqqqqq\software orientare nou\Orientare_2018\Orientare\Orientare\obj\Release\Orientare.pdb
