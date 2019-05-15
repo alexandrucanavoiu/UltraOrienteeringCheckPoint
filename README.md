@@ -38,7 +38,7 @@ This is done as the price of RFID modules went down, good RTC is easy to find, a
 5. From Tools select Board: Arduino Nano; Port: select the COM port; verify the code and Upload it.
 
 ### How to configure the Check Points
-To configure those Check Points you will use Orientare.exe from CheckPointSoftware\Orientare\bin\Release
+To configure these Check Points you use Orientare.exe from CheckPointSoftware\Orientare\bin\Release
 
 
 ##### 1. The Master Point
@@ -46,7 +46,7 @@ This station is used to download the data from Clocks (UUID CARDS).
 
 Open Orientare.exe and configure your station with MODE > READOUT and press SET to apply. (<a href="https://www.ultra-orienteering.drumetiimontane.ro/images/master-checkpoint.png">see the image</a>)
 
-Remember to select where do you want to Save the files on your computer using "File" button or the software will stop running.
+Remember to select where you want to Save the files on your computer using "File" button or the software will stop running.
 
 
 
@@ -57,20 +57,20 @@ This station is used to clear all data from the Clock (UUID CARDS).
 ##### 3. Start Check Point
 The code for Start Check Point is: 251
 
-* Open Orientare.exe and configure your station with: MODE > CONTROL and press SET to apply and in the CTRL Field you will insert: 251 after that you will press SET. (<a href="https://www.ultra-orienteering.drumetiimontane.ro/images/start-checkpoint.png">see the image</a>)
+* Open Orientare.exe and configure your station with: MODE > CONTROL and press SET to apply and in the CTRL Field insert: 251 after that press SET. (<a href="https://www.ultra-orienteering.drumetiimontane.ro/images/start-checkpoint.png">see the image</a>)
 
 ##### 3. Finish Check Point
 
 The code for Finish Check Point is: 252
 
-* Open Orientare.exe and configure your station with: MODE > CONTROL and press SET to apply and in the CTRL Field you will insert: 252 after that you will press SET. (<a href="https://www.ultra-orienteering.drumetiimontane.ro/images/finish-checkpoint.png">see the image</a>)
+* Open Orientare.exe and configure your station with: MODE > CONTROL and press SET to apply and in the CTRL Field insert: 252 after that press SET. (<a href="https://www.ultra-orienteering.drumetiimontane.ro/images/finish-checkpoint.png">see the image</a>)
 
 ##### 4. Intermediare Check Points
-Those station can have the CTRL with any integer number like "223" or "10".
+These station can have the CTRL with any integer number like "223" or "10".
 
-* Open Orientare.exe and configure your station with: MODE > CONTROL and press SET to apply and in the CTRL Field you will insert: 223 after that you will press SET. (<a href="https://www.ultra-orienteering.drumetiimontane.ro/images/check-point.png">see the image</a>)
+* Open Orientare.exe and configure your station with: MODE > CONTROL and press SET to apply and in the CTRL Field insert: 223 after that press SET. (<a href="https://www.ultra-orienteering.drumetiimontane.ro/images/check-point.png">see the image</a>)
 
-* You need to repeat those steps for each Check Point (station).
+* You need to repeat these steps for each Check Point (station).
 
 
 ### Usage of the system
